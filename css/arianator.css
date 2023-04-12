@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(146, 185, 223);
+}
+
+img{
+    position: absolute;
+}
+
+#wisin{
+    z-index:600;
+}
+
+#dios{
+    z-index: 6;
+}
+
+#random{
+    z-index:4;
+}
+
+#amor{
+    z-index: -2;
+}
